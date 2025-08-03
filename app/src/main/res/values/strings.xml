@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyPrivateHealth</string>
+    
+    <!-- Main Activity -->
+    <string name="manage_users">Manage Users</string>
+    <string name="add_health_data">Add Health Data</string>
+    <string name="view_graphs">View Graphs</string>
+    
+    <!-- User Management -->
+    <string name="add_user">Add User</string>
+    <string name="edit_user">Edit User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="user_name">Name</string>
+    <string name="user_age">Age</string>
+    <string name="user_height">Height (cm)</string>
+    <string name="save_user">Save User</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Health Data -->
+    <string name="select_user">Select User</string>
+    <string name="select_date">Select Date</string>
+    <string name="systolic_pressure">Systolic Pressure (mmHg)</string>
+    <string name="diastolic_pressure">Diastolic Pressure (mmHg)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="fat_percentage">Fat Percentage (%)</string>
+    <string name="bmi">BMI</string>
+    <string name="save_health_data">Save Health Data</string>
+    <string name="health_data_saved">Health data saved successfully</string>
+    <string name="health_data_updated">Health data updated successfully</string>
+    
+    <!-- Graphs -->
+    <string name="select_user_for_graph">Select User for Graph</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="weight_trend">Weight Trend</string>
+    <string name="body_composition">Body Composition</string>
+    <string name="bmi_trend">BMI Trend</string>
+    
+    <!-- Common -->
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="invalid_data">Invalid data</string>
+    <string name="no_data_available">No data available</string>
+    
+    <!-- Database -->
+    <string name="database_error">Database error occurred</string>
+    <string name="user_not_found">User not found</string>
+    <string name="health_data_not_found">Health data not found</string>
+</resources> 
